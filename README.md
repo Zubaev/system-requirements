@@ -1,8 +1,10 @@
 Технические характеристики
 
-Процессор AMD Ryzen Threadripper PRO 7985WX OEM 5.1 GHz / 64cores / 256Mb / 350W / Socket sTR5 - 959 039
+Процессоры
 
-Процессор AMD Ryzen Threadripper 1900X OEM 4 GHz / 8cores / 16Mb / 180W / Socket TR4 - 4 519
+`AMD Ryzen Threadripper PRO 7985WX OEM 5.1 GHz / 64cores / 256Mb / 350W / Socket sTR5` - 959 039
+
+`AMD Ryzen Threadripper 1900X OEM 4 GHz / 8cores / 16Mb / 180W / Socket TR4` - 4 519
 
 
 
